@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Universo -->
+    <color name="regal_blue">#053C72</color>
+    <color name="bahana_blue">#006191</color>
+    <color name="pacific_blue">#0097C9</color>
+    <color name="anti_flash">#F3F3F3</color>
+
+    <!--Common colors-->
+    <color name="white">#ffffff</color>
+    <color name="gray_dim">#696969</color>
+    <color name="gray_nobel">#B7B1B1</color>
+
+    <!-- Main theme colors -->
+    <!--   your app branding color for the app bar -->
+    <color name="primary">@color/bahana_blue</color>
+
+    <!--   darker variant for the status bar and contextual app bars -->
+    <color name="primary_dark">@color/regal_blue</color>
+
+    <!--   theme UI controls like checkboxes and text fields -->
+    <color name="accent">@color/anti_flash</color>
+
+    <!--   lighter variant for the status bar and contextual app bars -->
+    <color name="primary_light">@color/pacific_blue</color>
+
+    <!--   regular text -->
+    <color name="text_and_icons">@color/white</color>
+
+    <!--   primary text -->
+    <color name="text_primary">@color/white</color>
+
+    <!--   secondary text -->
+    <color name="text_secondary">@color/gray_dim</color>
+
+    <!--   divider -->
+    <color name="divider">@color/gray_nobel</color>
+
+    <!--   background -->
+    <color name="background">@color/bahana_blue</color>
+
+    <!--   transparent -->
+    <color name="transparent">#00ffffff</color>
+
+    <!-- Gradient -->
+    <color name="gradient_black_softer">#b000</color>
+    <color name="gradient_black">#d000</color>
+    <color name="gradient_transparent">#0000</color>
+
+</resources>
